@@ -1,0 +1,75 @@
+/* Embedded Fonts */
+
+
+
+
+
+
+/* Container Items */
+
+html,body {
+    height: 100%;
+    width: 100%;
+	
+}
+
+#cover {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(180,140,74);
+    background: url("../images/background.jpeg") no-repeat center fixed;
+    -webkit-background-size: cover;
+
+}
+
+#container {
+
+
+}
+
+
+
+
+
+/* Paragraph Styles */
+
+.title {
+
+
+    margin-left: 10%;
+    padding-top: 20%;
+
+    font-family: 'Permanent Marker', cursive;
+    font-size: 35px;
+
+
+
+}
+
+.author {
+
+}
+
+
+.text {
+    /*@font-face {
+        font-family: copy;
+        src:url(..fonts/Georgia Bold.tff);
+
+    width: 200px;
+        font-family: copy;
+        font-size:30em;
+        color: blue;
+        line-height:70em;*/
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 50%;
+    padding-top: 6%;
+
+
+
+
+}
+
+.italic {
+	
+}
